@@ -20,4 +20,4 @@ A web dice game who my classe has to play
     + O jogador pode apostar no máximo até o número 12 e no mínimo 1
     + Pode apostar até 25 pessoas
    
-   <img src="[URL_da_Imagem](https://www.lisbeckh.com.br/escolar/dados/dado-6-lados-12mmx12mm-un)" alt="Imagem de dados">
+   ![download](https://github.com/user-attachments/assets/aa6a35be-2c22-4e22-85f1-a506af5cbbcf)
